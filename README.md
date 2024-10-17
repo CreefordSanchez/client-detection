@@ -1,2 +1,0 @@
-"# client-detection" 
-"# client-detection" 

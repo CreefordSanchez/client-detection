@@ -105,7 +105,6 @@ function batteryOutput() {
 // grab nerwork status
 const netStat = selector('.network-output');
 function netStatOutput() {
-  console.log(navigator.onLine);
   if(navigator.onLine) {
     netStat.innerText = 'Online';
   } else {

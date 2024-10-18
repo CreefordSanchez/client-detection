@@ -27,7 +27,7 @@ const langType = selector('.system-lang');
 const browserType = selector('.system-browser');
 
 const osListTypes = [
-  'MacOS', 'UNIX', 'Windows','iOS'
+  'MacOS', 'UNIX', 'Windows', 'iOS', 'ChromeOS'
 ];
 const browserListTypes = [
   'Edg','Firefox', 'OPR', 'IE', 'Chrome','Safari'
